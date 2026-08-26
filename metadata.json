@@ -1,0 +1,6 @@
+{
+  "name": "BatiDevis Express — Devis & Factures BTP",
+  "description": "Application mobile et hors-ligne pour artisans et entreprises du BTP : saisie rapide de devis de matériaux et travaux, facturation, personnalisation logo et en-tête d'entreprise, impression et export PDF A4, catalogue de matériaux et synchronisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
